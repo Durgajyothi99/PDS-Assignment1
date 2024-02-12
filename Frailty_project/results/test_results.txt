@@ -1,0 +1,11 @@
+T-test results:
+T-statistic: -1.5303334194571003
+P-value: 0.1644646461051128
+Correlation between Grip strength and Frailty:
+Correlation coefficient: -0.4758668672668007
+Correlation between Height and Frailty:
+Correlation coefficient: 0.19318607577310287
+Correlation between weight and Frailty:
+Correlation coefficient: 0.5352001404158715
+Correlation between age and Frailty:
+Correlation coefficient: -0.08365462639775026
